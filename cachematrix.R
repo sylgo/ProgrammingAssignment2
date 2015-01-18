@@ -33,8 +33,3 @@ cacheSolve <- function(x, ...) {
   ##x$setsolve(m)
   ##m
 }
-
-
-
-
-## m <- matrix(c(1, 0, 1,0,2,1,1,1,1), 3,3)
